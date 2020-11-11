@@ -1,3 +1,5 @@
+<% if cart.length > 0 %>
+
 <section class="cart-show">
 
   <header class="page-header">
@@ -50,3 +52,12 @@
   </div>
 
 </section>
+
+<% else %>
+  <section class="cart-show">
+  <h2>
+  Your cart is empty. Once you have selected some items, you can find them here!
+  </h2>
+  <%= link_to "Back to Shop", root_path, class: 'btn btn-lg btn-primary' %>
+  </section>
+<% end %>
