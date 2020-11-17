@@ -1,5 +1,5 @@
 class User < ActiveRecord::Base
-    has_secure_password
+  has_secure_password
 
   validates :fist_name, presence: true, length: { minimum: 3}
   validates :last_name, presence: true, length: { minimum: 3}
