@@ -5,7 +5,7 @@ Welcome to Jungle, a mini e-commerce application where users can make purchases 
 ## Screenshots
 !["Signup and adding products to cart"](https://github.com/JacquelineJG/Jungle/blob/master/docs/Jungle-signup-addcart.gif?raw=true)
 !["Screenshot of cart page"](https://github.com/JacquelineJG/Jungle/blob/master/docs/show-cart-page.png?raw=true)
-!["Screenshot of order display after payment](https://github.com/JacquelineJG/Jungle/blob/master/docs/show-cart-page.png?raw=true)
+!["Screenshot of order display after payment](https://github.com/JacquelineJG/Jungle/blob/master/docs/order-show-page.png?raw=true)
 
 ## Setup
 
