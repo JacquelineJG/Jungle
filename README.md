@@ -2,6 +2,10 @@
 
 Welcome to Jungle, a mini e-commerce application where users can make purchases on items sold! Admins are able to create categories and products, while users are able to shop around the store and add to their carts. 
 
+## Screenshots
+!["Signup and adding products to cart"](https://github.com/JacquelineJG/Jungle/blob/master/docs/Jungle-signup-addcart.gif?raw=true)
+!["Screenshot of cart page"](https://github.com/JacquelineJG/Jungle/blob/master/docs/show-cart-page.png?raw=true)
+!["Screenshot of order display after payment](https://github.com/JacquelineJG/Jungle/blob/master/docs/show-cart-page.png?raw=true)
 
 ## Setup
 
