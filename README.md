@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+Welcome to Jungle, a mini e-commerce application where users can make purchases on items sold! Admins are able to create categories and products, while users are able to shop around the store and add to their carts. 
 
 
 ## Setup
@@ -16,7 +16,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Stripe Testing
 
-Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
+Use Credit Card # 4111 1111 1111 1111 for testing success scenarios. You can use any future date for the expiration, and any 3 digit code.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
